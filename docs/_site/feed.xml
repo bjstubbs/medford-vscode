@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>medford-vscode User Guide</title>
+    <description>This is a user guide for the medford language vscode plugin
+</description>
+    <link>https://bjstubbs.github.io/medford-vscode/</link>
+    <atom:link href="https://bjstubbs.github.io/medford-vscode/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 16 May 2025 13:23:31 -0400</pubDate>
+    <lastBuildDate>Fri, 16 May 2025 13:23:31 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to MEDFORD</title>
+        <description>&lt;p&gt;Placeholder&lt;/p&gt;
+</description>
+        <pubDate>Fri, 16 May 2025 13:07:25 -0400</pubDate>
+        <link>https://bjstubbs.github.io/medford-vscode/medford/updates/2025/05/16/Welcome.html</link>
+        <guid isPermaLink="true">https://bjstubbs.github.io/medford-vscode/medford/updates/2025/05/16/Welcome.html</guid>
+        
+        
+        <category>MEDFORD</category>
+        
+        <category>updates</category>
+        
+      </item>
+    
+  </channel>
+</rss>
