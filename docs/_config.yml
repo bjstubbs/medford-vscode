@@ -10,8 +10,8 @@ title: medford-vscode User Guide
 email: willupdatelater@tufts.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is a user guide for the medford language vscode plugin
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bjstubbs.github.io/medford-vscode" # the base hostname & protocol for your site
+baseurl: "medford-vscode/" # the subpath of your site, e.g. /blog
+url: "https://bjstubbs.github.io/" # the base hostname & protocol for your site
 github_username:  bjstubbs
 remote_theme: pages-themes/tactile@v0.2.0
 # Build settings
